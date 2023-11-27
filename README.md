@@ -11,13 +11,13 @@
 
 - Google Colab (Google Compute Engine Python 3)
 
-Dataset: KDD Cup 99 -> this is the data set used for The Third International Knowledge Discovery and Data Mining Tools Competition, which was held in conjunction with KDD-99 The Fifth International Conference on Knowledge Discovery and Data Mining
+Dataset: KDD -> this is the data set used for The Third International Knowledge Discovery and Data Mining Tools Competition, which was held in conjunction with KDD-99 The Fifth International Conference on Knowledge Discovery and Data Mining
 
 ## This project divided into two components that are Binary Classification and Multiclass Classification
 
-Dataset for Binary Classification in directory `/dataset/kdcup99-binary-dataset.csv`
+Dataset for Binary Classification in directory `/dataset/kdd-binary-dataset.csv`
 
-Dataset for Multiclass Classification in directory `/dataset/kdcup99-multiclass-dataset.csv`
+Dataset for Multiclass Classification in directory `/dataset/kdd-multiclass-dataset.csv`
 
-Download the KDD Cup 99 dataset:
+Download the KDD dataset:
 <http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html>
