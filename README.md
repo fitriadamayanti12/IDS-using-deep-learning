@@ -19,5 +19,5 @@ Dataset for Binary Classification in directory `/dataset/kdcup99-binary-dataset.
 
 Dataset for Multiclass Classification in directory `/dataset/kdcup99-multiclass-dataset.csv`
 
-Dowbload the KDD Cup 99 dataset:
+Download the KDD Cup 99 dataset:
 <http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html>
