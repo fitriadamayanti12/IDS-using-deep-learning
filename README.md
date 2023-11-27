@@ -11,3 +11,5 @@ Run: in Google Colab
 Dataset for Binary Classification in directory /dataset/kdcup99-binary-dataset.csv
 
 Dataset for Multiclass Classification in directory /dataset/kdcup99-multiclass-dataset.csv
+
+`Dataset access: http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html`
