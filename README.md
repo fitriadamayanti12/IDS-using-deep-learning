@@ -21,3 +21,7 @@ Dataset for Multiclass Classification in directory `/dataset/kdd-multiclass-data
 
 Download the KDD dataset:
 <http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html>
+
+Link Google Colab
+Binery Classification: <https://colab.research.google.com/drive/1yrj_WD4ts4Wi1VhDH1E3RODZ3Vfl0Nqr?usp=sharing>
+Multiclass Classification: <https://colab.research.google.com/drive/1Hw0owD66S2C5bXDa2hOg968A8fgpnaLP?usp=sharing>
